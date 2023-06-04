@@ -1,2 +1,2 @@
 # php
-Primeiros passo com linguagem PHP
+Primeiros passos com linguagem PHP
